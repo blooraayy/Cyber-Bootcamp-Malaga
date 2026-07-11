@@ -1,0 +1,2 @@
+SecureCorp — Desbloqueo de administración: flag{h1dd3n_1n_pl41n_s1ght_css_c4m0fl4g3}
+Señales de Tráfico Web - flag{m3j0r_n0_c0nfi3s_3n_l0s_b0ts}

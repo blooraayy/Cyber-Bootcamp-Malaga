@@ -1,0 +1,57 @@
+IDENTIDAD DIGITAL
+
+https://inza.blog
+
+SEGURIDAD DE REDES Y SISTEMAS
+
+Con una orientación teórico-práctica en torno al 50%, el curso comenzará con la exposición de contenidos teóricos para, seguidamente, plantear desarrollos prácticos offline y guiados por el profesor (Apartado 'Casos de ataque y respuesta').
+
+Con un alcance controlado, en el Apartado 'Prevención y hardening' se propone la puesta en marcha efectiva de manera autónoma por parte de los estudiantes del servicio de 'endurecimiento' knockd. A este fin, se pide a los estudiantes para el día de desarrollo del curso (7 julio, 09:30-13:30h) la disposición en el aula de un equipo personal Linux funcional (nativo o VM o Docker o WSL, ...), en el que estén instalados los servicios OpenSSH, así como Knockd  e  Iptables/Nftables.
+
+CIBERCRIMEN 
+
+Access data FTK Image (programa)
+
+BLOCKCHAIN
+
+Funciones de Hash, fundamental para blockchain
+Árboles de Merkle
+Se pueden crear redes blockchains privadas o usar simuladores para practicar
+
+DEVSECOPS
+
+https://github.com/lmartinezh3007/practica-Cyber-bootCamp
+https://threatmap.checkpoint.com
+https://cybermap.kaspersky.com/es
+https://attack.mitre.org
+https://www.cve.org
+https://www.luisllamas.es/generador-regex/
+
+HACKING ETICO
+
+https://chromewebstore.google.com/detail/ip-address-and-domain-inf/lhgkegeccnckoiliokondpaaalbhafoa?hl=es-419
+https://chromewebstore.google.com/detail/netcraft-extension/bmejphbfclcpmpohkggcjeibfilpamia?hl=es-419
+Hunter.io
+https://onlinesim.io/
+https://hackertarget.com
+https://c1b3rwall.policia.es
+https://ciberexperto.org
+https://ciberexperta.org
+https://dnsdumpster.com/ (tiene API gratuita para picar código)
+netcat (herramienta)
+https://www.shodan.io (te puedes registrar con la cuenta de la uni, correo a la cuenta que nos diga diciendo que somos estudiantes para hacer pruebas, etc) (apartado facetas, facet analysis, para data warehousing)
+App fing (rastreo de red) -> huella digital (hexadecimal) con eso hacer escaneo en shodan con esa huella digital
+https://odin.io
+cuando accedamos al bot ruso probar con nuestros correos y demás y numero con prefijo incluido
+nuwas bot (telegram)
+protocolo cámaras sin seguridad 554
+VLC IP:554
+antena Alpha para ataque a cámaras
+esto se hace mediante Kali
+https://goo.gl/maps/cPgFv9KD5C1eA8R78?g_st=ac
+
+SEGURIDAD 5G Y ENTORNOS MÓVILES
+
+
+
+

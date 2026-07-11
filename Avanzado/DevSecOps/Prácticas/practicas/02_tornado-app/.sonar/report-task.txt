@@ -1,0 +1,6 @@
+projectKey=Vuln2
+serverUrl=http://localhost:60000
+serverVersion=26.6.0.123539
+dashboardUrl=http://localhost:60000/dashboard?id=Vuln2
+ceTaskId=c037bfeb-4f9b-4db5-9e06-e3d717bccfc2
+ceTaskUrl=http://localhost:60000/api/ce/task?id=c037bfeb-4f9b-4db5-9e06-e3d717bccfc2

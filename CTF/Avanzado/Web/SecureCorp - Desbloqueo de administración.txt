@@ -1,0 +1,12 @@
+SecureCorp — Desbloqueo de administración
+
+El modo administración de SecureCorp está cerrado con una "clave de mantenimiento" que, según ellos, solo custodia el equipo de operaciones. En la página no aparece por ningún lado.
+
+Pero a veces la información más valiosa es la que no está a la vista del usuario medio. El formulario espera esa clave... y quizá el propio SecureCorp la lleve más cerca de lo que le gustaría admitir.
+
+Tu misión: consigue la clave de mantenimiento, introdúcela y revela la bandera del modo administración.
+
+URL: http://167.233.94.148:8000/
+
+Nota: SecureCorp tiene varias vulnerabilidades en diferentes secciónes. Para este reto será necesario buscar la flag que se encuentra en: Desbloqueo de administración.
+

@@ -1,0 +1,15 @@
+FFD8 - Inicio de archivo
+FFD9 - Fin de archivo
+
+dd
+dc3dd
+cnt
+skip
+
+Para esta practica hay que sacar las fotos que hay en la que nos dan.
+
+con grep ver el inicio y el final y de ahí ir separando
+
+los datos de la cuarta imagen están intercalados, por eso pueden salir solo 3
+
+comando: dd if=… of=… cnt=skip

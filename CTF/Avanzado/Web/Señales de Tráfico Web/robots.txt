@@ -1,0 +1,60 @@
+# ==========================================
+# NovaTech Global Server Policies
+# ==========================================
+
+User-agent: Googlebot
+Disallow: /search/
+Disallow: /images/private/
+Disallow: /tmp/
+Disallow: /cache/
+Disallow: /users/profiles/
+Disallow: /api/v1/internal/
+Disallow: /api/v2/beta/
+
+User-agent: Bingbot
+Crawl-delay: 10
+Disallow: /search/
+Disallow: /admin/
+Disallow: /old_site/
+Disallow: /marketing/campaigns/
+Disallow: /dev/
+
+User-agent: Baiduspider
+Disallow: /
+
+User-agent: Yandex
+Disallow: /
+
+User-agent: DuckDuckBot
+Disallow: /private/
+Disallow: /analytics/
+Disallow: /metrics/
+Disallow: /dashboards/
+
+# Legacy crawlers
+User-agent: Slurp
+Disallow: /archive/2018/
+Disallow: /archive/2019/
+Disallow: /archive/2020/
+
+# Internal Audit Bots
+User-agent: NovaAuditBot
+Disallow: /logs/
+Disallow: /server-status/
+Disallow: /flag{m3j0r_n0_c0nfi3s_3n_l0s_b0ts}
+Disallow: /db-backups/
+Disallow: /config/
+Disallow: /keys/
+
+User-agent: *
+Crawl-delay: 5
+Disallow: /cgi-bin/
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /xmlrpc.php
+Disallow: /trackback/
+Disallow: /feed/
+Disallow: /comments/
+Disallow: /checkout/
+Disallow: /cart/
+Disallow: /account/

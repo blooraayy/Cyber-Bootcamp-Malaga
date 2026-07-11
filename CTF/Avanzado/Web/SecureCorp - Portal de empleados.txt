@@ -1,0 +1,11 @@
+SecureCorp — Portal de empleados
+
+SecureCorp presume de seguridad sin fricción, pero a nosotros nos recibe como simples invitados. El panel que guarda el secreto corporativo dice estar reservado a los administradores.
+
+Lo llamativo es que el sitio recuerda quién eres cada vez que vuelves, sin pedirte contraseña. Si el servidor confía en algo que tu propio navegador lleva y trae para decidir tu rango... ese algo no es tan intocable como creen.
+
+Tu misión hazte pasar por administrador y lee el secreto del panel de control.
+
+URL http167.233.94.1488000
+
+Nota SecureCorp tiene varias vulnerabilidades en diferentes secciónes. Para este reto será necesario buscar la flag que se encuentra en Portal de empleados.

@@ -1,0 +1,4 @@
+Señales de Tráfico Web
+
+Casi todas las páginas de internet tienen un archivo público llamado robots.txt. Este archivo funciona como una 'señal de tráfico' para los buscadores (como Google o Bing), indicándoles qué carpetas de la web no deben rastrear ni mostrar en sus resultados (por ejemplo, carpetas de administrador o imágenes privadas). Sin embargo, los administradores novatos suelen cometer un grave error creen que al poner una ruta secreta en el robots.txt, nadie la verá. Sin embargo, este archivo es público y cualquiera puede leerlo. El administrador de nuestra empresa objetivo ha configurado un archivo robots.txt gigante con instrucciones para decenas de buscadores distintos. Creemos que ha intentado ocultar nuestra bandera entre todas esas líneas de texto pensando que nadie las leería. Descarga el archivo adjunto, ábrelo y busca la flag correspondiente.
+
