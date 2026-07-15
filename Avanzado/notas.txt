@@ -216,3 +216,48 @@ Capítulos 4.1, 4.2, 4.3
 Capítulos 4.4, 4.5, 4.6, 4.7
 Importante: Aún sabiendo la tentación de usar la IA para resumir el documento :-), ya habéis visto por clase que no os podéis fiar completamente - la IA os dará una buena visión a vista de pájaro, pero no un resumen que aglutine todo lo verdaderamente importante.
 
+INFORMATICA FORENSE
+
+https://www.caine-live.net/ (versión 1.13)
+https://www.autopsy.com/download/
+A partir del caso de estudio, genera un informe que responda a las siguientes preguntas:
+
+¿Cuál es la fecha que se inicia la cadena de custodia?
+¿Cuál es el hash del disco físico volcado?
+¿Cuales son los datos del disco volcado?
+¿Cuál es el GUID del disco físico volcado?
+¿Cuál es el tamaño del clúster en bytes dentro de la segunda partición del disco físico?
+El disco volcado, ¿Usaba GPT o MBR?
+¿Cuál es el GUID de las particiones del disco?
+El disco físico contiene una unidad de disco duro virtual (VHD) cuyo tamaño es mayor a 10 MB. ¿En qué archivo está?
+¿Cuál es la capacidad total en bytes de la partición etiquetada J. Wilson encontrada en el archivo System.vhd?
+¿Cuál es el uptime del sistema el 20 de febrero de 2014 a las 17:02:35 UTC -00:00?
+¿Cuál fue la última fecha y hora de inicio de sesión del usuario "Jimmy Wilson"?
+¿Cuál es el nombre completo del usuario cuyo RID es el 0x3EB?
+¿Envió a la papelera de reciclaje el usuario BillyBob algún fichero relacionado con las listas de precios?
+¿Cuales son los hashes del fichero pdf.pdf?
+¿Cuales son los metadatos del fichero pdf.pdf?
+¿Cuál es la zona horario del correo electrónico recibido por "Jimmy Wilson.447018D5 .00000006.eml"?
+¿Por qué máquinas pasó el correo electrónico antes de ser recibido?
+¿Cuál fue la fecha y hora en que se envió originalmente el correo electrónico recibido por Jimmy Wilson “447018D5–00000006.eml”?
+¿Qué dirección IP recibió el correo electrónico recibido por Jimmy Wilson “447018D5–00000006.eml”?
+¿Alguno de los usuarios jose.Badguy.hushmail.com o robert.ripoff.gmx.com enviaron correos a Jimmy Wilson?
+¿Se usó algún sistema de carpetas o volúmenes cifrados? ¿Cuál?
+¿Qué motor de búsqueda utilizó el usuario “Jimmy Wilson” para buscar: "how to steal identities"?
+Cuál es la última fecha/tiempo que el Usuario, Jimmy Wilson, corrió por última vez la aplicación de Windows Mail?
+¿Cuántos ficheros de tipo PDF se pueden recuperar mediante data/file carving?
+ Recuerda:
+
+Debes explicar y documentar cómo llegas a las distintas respuestas a las preguntas que se te plantean.
+No es obligatorio que el informe tenga formato de informe pericial (no se estudia en este curso), aunque si lo haces con formato de informe pericial, mejor.
+
+https://github.com/volatilityfoundation/volatility/releases
+https://github.com/volatilityfoundation/volatility3/releases/tag/v2.11.0
+
+CIBERINTELIGENCUA E INTELIGENCIA DE FUENTES ABIERTAS
+
+https://coveryourtracks.eff.org
+_IntelligenceX
+Herramienta -> Ripping - RipMe
+Maltego
+exiftool
